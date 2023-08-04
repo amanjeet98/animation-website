@@ -9,10 +9,6 @@ document.addEventListener("mousemove",function(dets){
     
 })
 
-    
-
-
-
 
 gsap.to("#nav",{
     backgroundColor:"#000",
